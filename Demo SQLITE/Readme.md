@@ -8,3 +8,24 @@ I will at some point, move this repository down my list and update it with a mor
 
 ![Demo sqlite](https://github.com/WAZJACk85/C-Languages-and-SQL-integrated-Projects/assets/20317523/63bfa396-2372-4229-be0b-9939365a4635)
 
+<h1>Explanation and Sreenshots of the SQLite Tables</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>Explanation and Screenshots of the WINFORMS  C# files both cs.desinger and cs.Program</h1>
