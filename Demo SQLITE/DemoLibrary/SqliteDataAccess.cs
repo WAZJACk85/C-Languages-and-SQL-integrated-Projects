@@ -27,8 +27,7 @@ namespace DemoLibrary
             {
                 cnn.Execute("insert into Person (FirstName, LastName, EmailAddress) values (@FirstName, @LastName, @EmailAddress)", person);
 
-                // exception error thrown, some syntax in the code or characters in the email. Most likely the list
-                // code is wrong and is not listing the email input field correctly. To look at tomorrow.
+               // No longer has any errors.  All resolved.
             }
         }
 
