@@ -1,4 +1,4 @@
-Explanation of program  and Screenshots:-
+#Explanation of program  and Screenshots:-
 
 This short program, creates a user interface like a registry form.  You enter in the details of a new customer/ person, including their first name, second name and email address.
 
